@@ -1,0 +1,1 @@
+Takes in a company as input. The user is given a random event that can change the stock price and its up to the user to either buy, sell, or do nothing. This teaches those new to the stock market how certain real life events can impact stock prices for companies. This is created using Turtle Graphics in Python.
